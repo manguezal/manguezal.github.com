@@ -62,13 +62,13 @@ nav {
 	margin-left: auto;
 	margin-right: auto;
 }
-	
+
 a:link	{
 	color: #b49400;
 	text-decoration: none;
 	line-height: 26px;
 }
-			
+
 a:visited 	{
 			color: #b49400;
 			text-decoration: none;
@@ -123,19 +123,19 @@ a:hover 	{
 			padding-top: 40px;
 			height: 300px;
 		}
-			
+
 
 
 #bed-breakfast {
 			height: 500px;}
-			
+
 #information {
-	height: 300px;
+	height: 430px;
 	width: 100%;
 	background: #2e3437;
 }
 
-h1 {		
+h1 {
 			text-align: center;
 			font-family: 'MelbourneRegular', Helvetica, sans-serif;
 			font-size: 38px;
@@ -154,7 +154,7 @@ h2 {
 			text-transform: uppercase;
 			padding: 10px 0px 10px 0px;
 			margin: 0 0 0 0;}
-			
+
 h3 {
 			font-family: 'Lora', Georgia, Times, serif;
 			font-weight: 400;
@@ -163,7 +163,7 @@ h3 {
 			line-height: 22px;
 			margin: 16px 0px 0px 0px;
 			text-transform: uppercase;}
-h4 {	
+h4 {
 			font-family: 'MelbourneRegular', Helvetica, sans serif;
 			font-weight: 400;
 			color: #d1d7cb;
@@ -173,14 +173,14 @@ h4 {
 			text-transform: uppercase;
 			}
 
-			
+
 p {
 			font-family: 'Lora', Georgia, Times, serif;
 			font-weight: 400;
 			color: #d1d7cb;
 			font-size: 16px;
 			line-height: 22px;}
-	
+
 p.display {
 			font-size: 28px;
 			line-height: 36px;
@@ -190,14 +190,14 @@ p.display {
 			font-weight: normal;
 			text-align:left;
 			margin: 0;}
-			
+
 p.welcome {
 			font-family: 'Lora', Georgia, Times, serif;
 			font-weight: 400;
 			color: #d1d7cb;
 			font-size: 20px;
 			line-height: 28px;}
-			
+
 .item {
     background: none repeat scroll 0 0 #FFFFFF;
     border: 1px solid #2E3437;
@@ -207,33 +207,33 @@ p.welcome {
 }
 
 #gallery {
-			width: 940px; 
+			width: 940px;
 			margin-left: auto;
 			margin-right: auto;
 			margin-top: 20px;
 			padding-top: 0px;
-			height: 1650px; 
+			height: 1650px;
 			padding-bottom: 30px;}
-			
-			
+
+
 .three-panel-left {
 			float: left;
-			vertical-align: top; 
+			vertical-align: top;
 			width: 293px;
 			margin: 0;
 			padding: 0px 30px 0px 0px;}
-		
+
 .bottom {
 			padding-top: 30px;
 			padding-bottom: 50px;
 			background: #2e3437;}
-			
 
 
 
-			
-					
-				
+
+
+
+
 
 footer {
 			width: 100%;
@@ -242,13 +242,13 @@ footer {
 			position:fixed;
 			bottom:0;
 			z-index: 11;}
-		
+
 #footer-content {
 			width: 940px;
 			margin-left: auto;
 			margin-right: auto;}
-			
-			
+
+
 #address {
 			float: left;
 			color: #d1d7cb;
@@ -257,7 +257,7 @@ footer {
 			letter-spacing: 0.07em;
 			padding-top: 16px;
 			font-size: 14px;}
-			
+
 #contacts {
 			float: right;
 			color: #d1d7cb;
@@ -266,9 +266,9 @@ footer {
 			letter-spacing: 0.07em;
 			padding-top: 10px;
 			font-size: 14px;}
-		
 
-					
+
+
 #mail {
 			font-family: 'MelbourneRegular', Helvetica, sans serif;
 			font-size: 14px;
@@ -276,5 +276,5 @@ footer {
 			padding-top: 10px;
 			padding-right: 10px;
 			word-spacing: 20px;}
-					
-			
+
+
