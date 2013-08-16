@@ -204,6 +204,14 @@ p.welcome {
     float: left;
     height: 105px;
     width: 310px;
+    text-align: center;
+}
+
+#gallery.groupsgallery{
+	height: 240px;
+}
+.item img.pug{
+	margin-top: 13px;
 }
 
 #gallery {
