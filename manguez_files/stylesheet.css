@@ -215,8 +215,9 @@ p.welcome {
 	margin-right: auto;
 	margin-top: 20px;
 	padding-top: 0px;
-	height: 1450px;
-	padding-bottom: 30px;
+	padding-bottom: 50px;
+	/*height: 1450px;*/
+	overflow: hidden;
 }
 
 .three-panel-left {
