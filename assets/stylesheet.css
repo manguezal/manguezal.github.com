@@ -10,6 +10,7 @@
 	position: fixed;
 	width: 100%;
 	z-index: 11;
+
 }
 
 body {
@@ -280,7 +281,7 @@ footer {
 }
 
 #hero-wrapper{
-	background-image: url('./photo_3.jpg');
+	background-image: url('./images/photo_3.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 650px;
@@ -288,17 +289,18 @@ footer {
 }
 
 .color-hero{
-	background-image: url('./photo_1.jpg');
+	background-image: url('./images/photo_1.jpg');
 }
 
 .grayscale-hero {
-	background-image: url('./photo_2.jpg');
+	background-image: url('./images/photo_2.jpg');
 }
 
 header {
 	/* background-color: #2E3437; */
 	padding-bottom: 18px;
 	padding-top: 30px;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
 header nav {
@@ -328,7 +330,7 @@ header nav {
 }
 
 #logo-container #logo{
-	  background-image: url('./manguezal-small.png');
+	  background-image: url('./images/manguezal-small.png');
     background-repeat: no-repeat;
 		background-size: cover;
     text-indent: 100%;
@@ -336,7 +338,7 @@ header nav {
     overflow: hidden;
     float: left;
     margin-top: 10px;
-    height: 35px;
+    height: 38px;
     width: 158px;
 }
 
@@ -418,3 +420,9 @@ text-align: center;
  background: #FCD1F9;
  border: 2px solid #7C0B4C;
 }
+
+#events-welcome{
+  width: 940px;
+    padding-top: 40px;
+    height: 500px;
+  }
