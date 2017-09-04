@@ -18756,6 +18756,13 @@
     link: "",
     width: ""
   }, {
+    src: "img/manguez_files/ProfSense.png",
+    type: "startups-in",
+    alt_br: “ProfSense - Porque todo mundo tem algo a ensinar e a aprender.”,
+    alt_en: "“,
+    link: “http://www.profsense.com”,
+    width: ""
+  }, {
     src: "img/manguez_files/impact-hub-recife.png",
     type: "coworking-spaces",
     alt_br: "",
