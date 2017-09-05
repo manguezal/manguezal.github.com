@@ -17854,7 +17854,7 @@
             href: "#",
             className: this.state.isOpen > 0 ? "menu-toggler menu-toggler__is-open" : "menu-toggler",
             onClick: this.toggleMenu.bind(this)
-          }, " "), p.a.createElement("div", {
+          }, " "), p.a.createElement("div", {
             className: "menu-group"
           }, p.a.createElement("a", {
             href: "#welcome",
@@ -18758,7 +18758,7 @@
   }, {
     src: "img/manguez_files/ProfSense.png",
     type: "startups-in",
-    alt_br: “ProfSense - Porque todo mundo tem algo a ensinar e a aprender.”,
+    alt_br: “”,
     alt_en: "“,
     link: “http://www.profsense.com”,
     width: ""
