@@ -18758,9 +18758,9 @@
   }, {
     src: "img/manguez_files/ProfSense.png",
     type: "startups-in",
-    alt_br: “”,
-    alt_en: "“,
-    link: “http://www.profsense.com”,
+    alt_br: "",
+    alt_en: "",
+    link: "http://www.profsense.com”,
     width: ""
   }, {
     src: "img/manguez_files/impact-hub-recife.png",
