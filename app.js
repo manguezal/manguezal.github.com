@@ -18770,6 +18770,13 @@
     link: "http://www.agenciadiplo.com/",
     width: ""
   }, {
+    src: "img/manguez_files/artics.png",
+    type: "startups-in",
+    alt_br: "",
+    alt_en: "",
+    link: "http://www.artics.com.br",
+    width: ""
+  }, {
     src: "img/manguez_files/impact-hub-recife.png",
     type: "coworking-spaces",
     alt_br: "",
