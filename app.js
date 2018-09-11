@@ -18777,6 +18777,13 @@
     link: "http://www.artics.com.br",
     width: ""
   }, {
+    src: "img/manguez_files/trampolim.png",
+    type: "startups-in",
+    alt_br: "",
+    alt_en: "",
+    link: "http://trampolim.academy/",
+    width: ""
+  }, {
     src: "img/manguez_files/impact-hub-recife.png",
     type: "coworking-spaces",
     alt_br: "",
