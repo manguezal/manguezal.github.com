@@ -18836,6 +18836,13 @@
     alt_en: "",
     link: "http://openredu.cin.ufpe.br/",
     width: ""
+  }, {
+    src: "img/manguez_files/logo_brisa.png",
+    type: "startups-in",
+    alt_br: "brisa robotica",
+    alt_en: "robotics, autonomous systems and machine intelligence",
+    link: "https://brisa.tech/pt",
+    width: ""
   }];
   ! function() {
     "undefined" != typeof __REACT_HOT_LOADER__ && __REACT_HOT_LOADER__.register(a, "startups", "C:/Users/Leonardo/Documents/new-site/src/sources/startups.js")
