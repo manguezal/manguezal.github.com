@@ -18245,25 +18245,10 @@
             className: "sitefooter"
           }, f.a.createElement("div", {
             className: "container"
-          }, f.a.createElement("div", {
-            className: "manguezal-logo"
           }, f.a.createElement("img", {
-            src: "img/logo-manguezal.svg",
+            src: "img/logo-manguezal.png",
             alt: ""
-          })), f.a.createElement("div", null, f.a.createElement("span", null, f.a.createElement(Y, {
-            value: "footer_stoptalking_startdoing",
-            dangerousHTML: !0
-          }))), f.a.createElement("div", null, f.a.createElement("span", null, f.a.createElement("a", {
-            id: "mail",
-            href: "javascript:"
-          }, "MANGUEZ.AL"), "- Recife/PE - ", f.a.createElement(Y, {
-            value: "footer_br"
-          }))), f.a.createElement("div", {
-            className: "cargo-logo"
-          }, f.a.createElement("img", {
-            src: "img/logo-cargo.svg",
-            alt: ""
-          })))))
+          }))))
         }
       }]), t
     }(h.Component);
@@ -18294,8 +18279,8 @@
     newsletter_content_p1: "<p>MANGUEZAL is a open community, if you want to join just send us a pull request at our github repository: https://github.com/manguezal/manguezal.github.com.</p>",
     newsletter_title_2: "Newsletter",
     newsletter_form_subscribe: "Subscribe",
-    footer_stoptalking_startdoing: "Stop talking <br /> Start doing",
-    footer_br: "BRAZIL"
+    footer_stoptalking_startdoing: "&nbsp;",
+    footer_br: "&nbsp;"
   };
   ! function() {
     "undefined" != typeof __REACT_HOT_LOADER__ && __REACT_HOT_LOADER__.register(a, "en", "C:/Users/Leonardo/Documents/new-site/src/locales/en.js")
