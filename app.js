@@ -18784,6 +18784,13 @@
     link: "http://trampolim.academy/",
     width: ""
   }, {
+    src: "img/manguez_files/citi.png",
+    type: "startups-in",
+    alt_br: "",
+    alt_en: "",
+    link: "http://citi.org.br/",
+    width: ""
+  }, {
     src: "img/manguez_files/impact-hub-recife.png",
     type: "coworking-spaces",
     alt_br: "",
