@@ -18396,7 +18396,7 @@
     type: "startups-in",
     alt_br: "",
     alt_en: "",
-    link: "http://guava.com.br/",
+    link: "https://guava.software/",
     width: ""
   }, {
     src: "img/manguez_files/estuario.png",
