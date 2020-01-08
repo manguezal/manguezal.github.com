@@ -18843,12 +18843,19 @@
     alt_en: "robotics, autonomous systems and machine intelligence",
     link: "https://brisa.tech/pt",
     width: ""
-  },{
+  }, {
     src: "img/manguez_files/klopr.png",
     type: "startups-in",
     alt_br: "Klopr - Compre e Venda Tudo para Cavalos. Selas, Arreios, Botas e mais",
     alt_en: "",
     link: "http://www.klopr.com",
+    width: ""
+  }, {
+    src: "img/manguez_files/locus.png",
+    type: "startups-in",
+    alt_br: "Locus Custom Software",
+    alt_en: "Locus Custom Software",
+    link: "http://locus.software/",
     width: ""
   }];
   ! function() {
