@@ -18841,7 +18841,7 @@
     type: "foss-groups",
     alt_br: "",
     alt_en: "",
-    link: "http://openredu.cin.ufpe.br/",
+    link: "http://openredu.ufpe.br/",
     width: ""
   }, {
     src: "img/manguez_files/logo_brisa.png",
