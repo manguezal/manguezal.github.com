@@ -18864,6 +18864,13 @@
     alt_en: "Locus Custom Software",
     link: "http://locus.software/",
     width: ""
+  },  {
+    src: "img/manguez_files/inspace.png",
+    type: "startups-in",
+    alt_br: "InSpace - Soluções Tecnológicas",
+    alt_en: "InSpace Tech",
+    link: "https://inspace.tech/",
+    width: ""
   }];
   ! function() {
     "undefined" != typeof __REACT_HOT_LOADER__ && __REACT_HOT_LOADER__.register(a, "startups", "C:/Users/Leonardo/Documents/new-site/src/sources/startups.js")
